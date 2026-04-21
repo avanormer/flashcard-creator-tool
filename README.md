@@ -13,7 +13,7 @@ This tool is a flashcard maker that allows people to create and study their own 
 
 ## Live Site
 
-[View Live Demo on GitHub Pages](https://github.com/avanormer/flashcard-creator-tool.git)
+[View Live Demo on GitHub Pages](https://avanormer.github.io/flashcard-creator-tool/))
 
 ## What I Learned
 
